@@ -35,3 +35,8 @@ renderSinhVien();
 var themSinhVien = function(){
     console.log('Thêm sinh viên');
 }
+
+
+var xoaSinhVien = function(idSinhVien){
+    console.log('Xoá sinh viên' + idSinhVien);
+}
